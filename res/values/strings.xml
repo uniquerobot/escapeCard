@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">逃亡扑克</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_play">出牌</string>
+    <string name="button_eat"> 吃 </string>
+    <string name="button_pass"> 过 </string>
+    <string name="toast_win"> 赢了！真棒！</string>
+    <string name="toast_lose"> 哎，输了再来一局吧！</string>
+    <string name="toast_cheat"> 作弊模式开启！</string>
+    
+    <string name="title">逃亡扑克</string>
+    <string name="button_single">单人游戏</string>
+    <string name="button_double">双人游戏</string>
+    <string name="button_brief">玩法介绍</string>
+    <string name="button_author">关于作者</string>
+    
+     <string name="brief">玩法介绍</string>
+     <string name="author">关于作者</string>
+    
+
+</resources>
